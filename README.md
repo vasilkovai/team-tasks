@@ -1,4 +1,4 @@
-# Community Managment 👥
+# Community Management 👥
 
 ## Website
 ❗️ If the website doesn't work, please enable VPN
