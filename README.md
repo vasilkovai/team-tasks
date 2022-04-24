@@ -1,9 +1,16 @@
 # Community Management 👥
 
 ## Website
-❗️ If the website doesn't work, please enable VPN
 
 [Website (Firebase Hosting)](https://community-management-6af6f.web.app/)
+
+**❗️ If the website doesn't work, please enable VPN**
+
+**🙃 You can use the already created profile:**
+
+**Login:** test@test.com
+
+**Password:** testtest
 
 ---
 
