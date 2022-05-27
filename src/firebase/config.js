@@ -4,12 +4,12 @@ import 'firebase/auth'
 import 'firebase/storage'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBghRcljK_EfcYQljGdx4W66eHdUQxW6ck",
-  authDomain: "community-management-6af6f.firebaseapp.com",
-  projectId: "community-management-6af6f",
-  storageBucket: "community-management-6af6f.appspot.com",
-  messagingSenderId: "874593143322",
-  appId: "1:874593143322:web:3420f8f0cd2345a7ca1fa3"
+  apiKey: "AIzaSyAsE42Mo7IF4ba33QrClbUVlea8PoELZus",
+  authDomain: "team-tasks-f1754.firebaseapp.com",
+  projectId: "team-tasks-f1754",
+  storageBucket: "team-tasks-f1754.appspot.com",
+  messagingSenderId: "301490109666",
+  appId: "1:301490109666:web:4a2d41bd2b3183cd8472bb"
 };
 
 //init firebase

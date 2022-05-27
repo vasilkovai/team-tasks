@@ -1,8 +1,8 @@
-# Community Management 👥
+# Team Tasks 👥
 
 ## Website
 
-[Website (Firebase Hosting)](https://community-management-6af6f.web.app/)
+[Website (Firebase Hosting)](https://team-tasks-f1754.web.app/)
 
 **❗️ If the website doesn't work, please enable VPN**
 
